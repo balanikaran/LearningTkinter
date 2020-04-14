@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba5d4500-ebb8-42b1-a402-72cd9839199e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Z5TdxLDhAaZm5lvq5tsdlrnsk8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearningTkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RandomUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RandomUI/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="texteditor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearningTkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/textEditor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/textEditor/texteditor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.texteditor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba5d4500-ebb8-42b1-a402-72cd9839199e" name="Default Changelist" comment="" />
+      <created>1584128045430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584128045430</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="172" key="GridCell.Tab.0.bottom" timestamp="1584221565622">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="172" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584221565622" />
+    <state width="1362" height="162" key="GridCell.Tab.0.bottom/57.23.1383.877@57.23.1383.877" timestamp="1584188100720" />
+    <state width="1419" height="172" key="GridCell.Tab.0.center" timestamp="1584221565620">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="172" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584221565620" />
+    <state width="1362" height="162" key="GridCell.Tab.0.center/57.23.1383.877@57.23.1383.877" timestamp="1584188100719" />
+    <state width="1419" height="172" key="GridCell.Tab.0.left" timestamp="1584221565619">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="172" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584221565619" />
+    <state width="1362" height="162" key="GridCell.Tab.0.left/57.23.1383.877@57.23.1383.877" timestamp="1584188100718" />
+    <state width="1419" height="172" key="GridCell.Tab.0.right" timestamp="1584221565621">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="172" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584221565621" />
+    <state width="1362" height="162" key="GridCell.Tab.0.right/57.23.1383.877@57.23.1383.877" timestamp="1584188100719" />
+    <state x="190" y="26" key="SettingsEditor" timestamp="1584189009840">
+      <screen x="57" y="23" width="1383" height="877" />
+    </state>
+    <state x="139" y="3" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584128841253" />
+    <state x="190" y="26" key="SettingsEditor/57.23.1383.877@57.23.1383.877" timestamp="1584189009840" />
+    <state x="441" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1584189038056">
+      <screen x="57" y="23" width="1383" height="877" />
+    </state>
+    <state x="400" y="278" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584128689042" />
+    <state x="441" y="294" key="com.intellij.ide.util.TipDialog/57.23.1383.877@57.23.1383.877" timestamp="1584189038056" />
+  </component>
+</project>
